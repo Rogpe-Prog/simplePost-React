@@ -2,8 +2,8 @@ This is a simple project using Node to backend and React to frontend. I've just 
 
 ## Libraries
 
-Backend: express and mongoose
-Frontend: react and axios
+* Backend: express and mongoose
+* Frontend: react and axios
 
 ### Dev
 
